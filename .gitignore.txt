@@ -1,0 +1,24 @@
+
+
+# Operating System Overhead Clutter Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local Development Server Log Pipelines (XAMPP / Apache Stack)
+*.log
+xdebug/
+.phpunit.result.cache
+
+# Code Editor and Workspace Settings Configuration Folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Project-Specific Workspace Clean-up Rules
+*.txt

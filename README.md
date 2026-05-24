@@ -90,20 +90,6 @@ The project contains the following major tables:
 ## Database design follows **3rd Normal Form (3NF)** to reduce redundancy and improve data consistency.
 
 
-##  Project Structure
-
-Project/
-│
-├── Admin/
-├── Seller/
-├── User/
-├── Guest/
-├── Assets/
-├── SpryAssets/
-├── database/
-├── documentation
-
-
 ##  Installation
 
 Clone repository:
